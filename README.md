@@ -4,8 +4,7 @@ This is a simple Breakout game implemented using HTML, CSS, and JavaScript. The 
 
 ## Getting Started
 
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in a web browser.
+1. Open the `index.html` file in a web browser.
 
 ## Gameplay Instructions
 
@@ -43,6 +42,6 @@ Feel free to modify the game by adjusting the CSS styles, block arrangements, or
 
 ## Credits
 
-This game was created by [Your Name] as a fun project. Feel free to contribute or share your feedback.
+This game was created by **Jai Anurag Y** as a fun project. Feel free to contribute or share your feedback.
 
 Have fun playing the Breakout game!
